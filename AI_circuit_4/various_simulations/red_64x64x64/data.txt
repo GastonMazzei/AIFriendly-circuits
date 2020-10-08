@@ -1,0 +1,2 @@
+red 64x64x64
+traincard: 17mil filas
