@@ -1,2 +1,0 @@
-red 16x16x16
-traincard: 7mil filas
